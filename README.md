@@ -1,13 +1,13 @@
 <!-- hide -->
 # Networking on VirtualBox
 
-> By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/networks-on-virtualbox/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/owasp-top10-injection/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
-![last commit](https://img.shields.io/github/last-commit/4geeksacademy/installing-windows-on-virtual-machine)
+![last commit](https://img.shields.io/github/last-commit/owasp-top10-injection)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/networks-on-virtualbox/blob/master/README.es.md)*
+*These instructions are [available in english](https://github.com/breatheco-de/owasp-top10-injection/blob/main/README.md)*
 <!-- endhide -->
 
 ## 📝 Instructions
@@ -24,7 +24,7 @@ In this activity, we will work with the beebox virtual machine, which contains b
 
 ## 🌱 How to start this project.
 
-Clone this repository in your local environment ([Clone this repository](https://4geeks.com/how-to/github-clone-repository)) and follow the steps below:
+Clone this repository in your local environment ([Clone this repository](https://github.com/breatheco-de/owasp-top10-injection)) and follow the steps below:
 
 1. Install LearnPack, the package manager for learning tutorials and the node compiler plugin for learnpack, make sure you also have node.js 18+:
 

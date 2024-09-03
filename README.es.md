@@ -1,13 +1,13 @@
 <!-- hide -->
 # OWASP top 10 - INJECTION
 
-> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/https://github.com/breatheco-de/owasp-top10-injection/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
-![last commit](https://img.shields.io/github/last-commit/breatheco-de/configuring-firewall-and-acl-exercise-tutorial)
+![last commit](https://img.shields.io/github/last-commit/breatheco-de/https://github.com/breatheco-de/owasp-top10-injection)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*These instructions are [available in english](https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/blob/main/README.md)*
+*These instructions are [available in english](https://github.com/breatheco-de/https://github.com/breatheco-de/owasp-top10-injection/blob/main/README.md)*
 <!-- endhide -->
 
 ## 📝 Instrucciones
@@ -23,7 +23,7 @@ En esta actividad, trabajaremos con la máquina virtual beebox, que contiene bWA
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
-Clona este repositorio dentro de tu maquina virtual debian y sigue los siguientes pasos:
+Clona este repositorio dentro de tu maquina y sigue los siguientes pasos:
 
 1. Instale LearnPack, el administrador de paquetes para tutoriales de aprendizaje y el complemento del compilador de nodos para learnpack, asegúrese de tener también node.js 14:
 
