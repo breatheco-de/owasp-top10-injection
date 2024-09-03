@@ -1,5 +1,5 @@
 <!-- hide -->
-# OWASP top 10 - INYECCIÓN
+# OWASP top 10 - INJECTION
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/owasp-top10-injection/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
